@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1583353769 source:c:\users\sergey\desktop\lab_2\asd.cpp
+	<iostream>
+
+1583667223 source:c:\users\sergey\desktop\lab_2\main.cpp
+	"Header.h"
+
+1583830579 c:\users\sergey\desktop\lab_2\header.h
+	<iostream>
+	<fstream>
+	<cstdio>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1583440663 source:c:\users\sergey\desktop\lab_2\menu.cpp
+	"Header.h"
+
+1583830469 source:c:\users\sergey\desktop\lab_2\stack1.cpp
+	"Header.h"
+
+1583830929 source:c:\users\sergey\desktop\lab_2\stack2.cpp
+	"Header.h"
+
+1583830701 source:c:\users\sergey\desktop\lab_2\stack3.cpp
+	"Header.h"
+
+1583443033 source:c:\users\sergey\desktop\lab_2\demo.cpp
+	"Header.h"
+
+1583444099 source:c:\users\sergey\desktop\lab_2\demoarr.cpp
+	"Header.h"
+
+1583444179 source:c:\users\sergey\desktop\lab_2\demovec.cpp
+	"Header.h"
+
+1583444452 source:c:\users\sergey\desktop\lab_2\demolist.cpp
+	"Header.h"
+
+1583830793 source:c:\users\sergey\desktop\lab_2\benchmark.cpp
+	"Header.h"
+
